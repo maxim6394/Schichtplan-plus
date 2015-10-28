@@ -1,0 +1,3 @@
+Maxim Stein
+
+Ich erledige die langfristige Speicherung der Daten in einer MySQL Datenbank, eventuell auch den Zugriff auf die Daten per PHP.
